@@ -49,7 +49,7 @@ $strPreferredFormat	= 'Bevorzugtes Format f&uuml;r E-Mails:';
 $strText                = 'Text';
 $strHTML                = 'HTML';
 $strPreferencesTitle    = 'Einstellungen Aendern';
-$strPreferencesInfo     = 'Bitte best&auml;tigen Sie, daß die folgenden Informationen korrekt sind und dr&uuml;cken Sie den Update-Button';
+$strPreferencesInfo     = 'Bitte best&auml;tigen Sie, dass die folgenden Informationen korrekt sind und dr&uuml;cken Sie den Update-Button';
 $strUpdatePreferences   = 'Update';
 $strPreferencesEmailChanged = 'Ihre E-Mail wurde ge&auml;ndert. Bitte besuchen Sie den Link, welcher in der E-Mail genannt wird, die Sie an Ihre neue Adresse erhalten.';
 $strPreferencesNotificationSent = 'Sie werden eine E-Mail mit den Aenderungen erhalten';
@@ -84,10 +84,10 @@ $strPasswordRemindMessage = 'Ihr Passwort lautet ';
 $strPasswordRemindInfo = 'Um Ihr Passwort per E-Mail zu erhalten, geben Sie bitte Ihre E-Mail-Adresse ein und dr&uuml;cken den "'.$strForgotPassword.'" Knopf.';
 $strLogin              = 'Login';
 $strLoginTitle         = 'Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein';
-$strLoginInfo          = 'Diese Seite ben&ouml;tigt ein Passwort. Bitte geben Sie Ihre E-Mail-Adresse und Ihr Paßwort ein';
+$strLoginInfo          = 'Diese Seite ben&ouml;tigt ein Passwort. Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein';
 $strPersonalLocationInfo = '
   <p>Diese Seite ben&ouml;tigt eine pers&ouml;nliche Identifikation, welche auf jeder von uns an Sie gesendeten E-Mail angegeben ist.<br/>
-  Wenn Sie diesen Bereich angeklickt haben und diesen Fehler erhalten, vergewissern Sie sich, daß Sie die vollst&auml;ndige Linie in die 
+  Wenn Sie diesen Bereich angeklickt haben und diesen Fehler erhalten, vergewissern Sie sich, dass Sie die vollst&auml;ndige Linie in die 
   Adressezeile Ihres Browsers eigetragen haben. Manchmal ist die Adresse &uuml;ber mehrere Zeilen umgebrochen.</p>
   <p>Wenn Sie den Bereich nicht kennen, k&ouml;nnen Sie ihn per E-Mail erfragen.
   Bitte geben Sie dazu Ihre E-Mail-Adresse ein und klicken Sie auf Weiter
